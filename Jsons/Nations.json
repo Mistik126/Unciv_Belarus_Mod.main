@@ -17,7 +17,7 @@
 		"neutralHello": "Be blessed, friend.",
 		"neutralLetsHearIt": ["Yes.","Let's discuss."],
 		"neutralNo": ["No way.","Never!"],
-		"neutralYes": ["Very Potato!","Is good","А еще я вас картошкой угощу"],
+		"neutralYes": ["Very Potato!","Is good","Potato chek!"],
 		"hateHello": "Pff, Liberal...",
 		"hateLetsHearIt": "Just speak, don't waste my time!",
 		"hateNo": ["Volodia takogo ne odobryaet!","Are you sure?"],
@@ -37,4 +37,5 @@
 			"Aratta","Kutu","Der"]
 
 	}
+
 
