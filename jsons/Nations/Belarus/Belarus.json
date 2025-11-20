@@ -4,4 +4,6 @@
     "adjective": ["Belarusian"],
     "startBias": ["Plains"],
     "preferredVictoryType": "Scientific"
+    "cities": ["Minsk", "Brest", "Gomel", "Bobryisk", "Potatofield"]
+
 }
