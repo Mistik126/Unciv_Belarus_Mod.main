@@ -4,7 +4,11 @@
     "description": "Add 1 nation",
     "version": "1.0", 
     "modTypes": ["Civs"],
-    "civs": ["Belarus"],
+    "civs": [
+       {"Name" : "Belarus"
+        "Filename" : "Belarus"}
+    ],
     "url": "https://github.com/Mistik126/Unciv_Belarus_Mod/archive/refs/heads/main.zip",                    
     "minimumGameVersion": "4.0"             
+
 }
