@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Goksanpo",
+		"name": "Belarussian Rocket",
 		"unitType": "Siege",
-		"uniqueTo": "North Korea",
+		"uniqueTo": "Belarus",
 		"replaces": "Artillery",
 		"movement": 2,
 		"strength": 27,
