@@ -1,8 +1,8 @@
 
 	{
 		"name": "Belarus",
-		"leaderName": "Лукашенко",
-		"adjective": ["Беларусск."],
+		"leaderName": "Lukashenko",
+		"adjective": ["Belarussian"],
 		"startBias": ["Flood plains"],
 		"preferredVictoryType": "Scientific",
 		
@@ -17,10 +17,10 @@
 		"neutralHello": "Be blessed, friend.",
 		"neutralLetsHearIt": ["Yes.","Let's discuss."],
 		"neutralNo": ["No way.","Never!"],
-		"neutralYes": ["Очень хорошо!","Володя бы одобрил!","А еще я вас картошкой угощу"],
-		"hateHello": "Пфф, либералы",
+		"neutralYes": ["Very Potato!","Is good","А еще я вас картошкой угощу"],
+		"hateHello": "Pff, Liberal...",
 		"hateLetsHearIt": "Just speak, don't waste my time!",
-		"hateNo": ["Володя такого не одобряет!","Are you sure?"],
+		"hateNo": ["Volodia takogo ne odobryaet!","Are you sure?"],
 		"hateYes": ["I can accept.","Fine.","Let it be."],
 		
 		"afterPeace": "Maybe we should celebrate the end of war?",
@@ -31,9 +31,10 @@
 		"uniqueName": "Cradle of Civilization",
 		"uniqueText": "All land units move twice as fast on tiles next to rivers. +2 [Science] in Capital",
 		"uniques": ["[+2 Science] [in capital]","[Land] units gain the [Cradle of Civilizations] promotion"],
-		"cities": ["Минск","Бобруйск","Мозырь","Лида","Слуцк","Ur","Bad-Tibira","Zimbir","Shuruppak","Umma",
+		"cities": ["Minsk","Bobryisk","Mosir","Lida","Slyck","Potato-Field","Bad-Tibira","Zimbir","Shuruppak","Umma",
 			"Larsa","Isin","Girsu","Adab","Larak","Abu Salabikh","Akshak","Hamazi","Nina","Kutha",
 			"Marad","Zabalam","Kisurra","Pazurish-Dagan","Kutallu","Kesh","Apisada","Kisiga","Enegi","Ki-an",
 			"Aratta","Kutu","Der"]
 
 	}
+
