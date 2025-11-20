@@ -26,8 +26,8 @@
 		"afterPeace" : "It's the blessing of a great comrade!",
 		"tradeRequest" : "I have a good suggestion, comrade.",
 
-		"outerColor" : [0, 94, 184],
-		"innerColor" : [217, 0, 0],
+		"outerColor" : [190, 0, 0],
+		"innerColor" : [0, 120, 40],
 		"uniqueName" : "Great Potato Farm",
 		"uniques" : ["[+3 Happiness] [in capital] <after discovering [Writing]>", "[+2 Happiness] [in capital] <after discovering [Drama and Poetry]>", "[+1 Happiness] [in all cities] <after discovering [Printing Press]>", "[+1 Happiness] [in all cities] <after discovering [Radio]>", "[+5 Happiness] [in capital] <after discovering [Telecommunications]>"],
 		"cities" : ["Minsk","Bobryisk","PotatoField","JopaEja","Chongjin","Wonsan","Raseon","Kaechon","Sinuiju","Sariwon","Haeju","Kanggye","Hyesan","Rajin","Sonbong","Anju","Songnim","Hwangju","Kilju","Anbyon"]
