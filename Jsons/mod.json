@@ -3,8 +3,9 @@
     "description": "Добавляет Беларусь на карту", 
     "version": "1",
     "civs": [
-        {"name": "Belarus", "filename": "Nations/Belarus"}
+        {"name": "Belarus", "filename": "Belarus"}
     ]
 
 }
+
 
