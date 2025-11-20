@@ -1,9 +1,0 @@
-{
-    "name": "Belarus",
-    "leaderName": "Lukashenko",
-    "adjective": ["Belarusian"],
-    "startBias": ["Plains"],
-    "preferredVictoryType": "Scientific"
-    "cities": ["Minsk", "Brest", "Gomel", "Bobryisk", "Potatofield"]
-
-}
