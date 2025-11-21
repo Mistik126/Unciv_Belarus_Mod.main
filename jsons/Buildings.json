@@ -1,12 +1,12 @@
 [
 	{
-		"name" : "Kaesong Industrial Region",
+		"name" : "Minsk Tractor Plant",
 		"replaces" : "Factory",
 		"uniqueTo" : "Belarus",
 		"maintenance" : 5,
 		"production" : 16,
 		"specialistSlots": {"Engineer": 5},
-		"cost" : 400,
+		"cost" : 360,
 		"hurryCostModifier" : 1000,
 		"requiredTech" : "Industrialization",
 		"uniques" : ["[+1 Happiness]"]
