@@ -29,7 +29,7 @@
 		"outerColor" : [0, 180, 60],
 		"innerColor" : [255, 20, 20],
 		"uniqueName" : "Great Potato Farm",
-		"uniques" : ["[+3 Happiness] [in capital] <after discovering [Writing]>", "[+2 Happiness] [in capital] <after discovering [Drama and Poetry]>", "[+2 Happiness] [in all cities] <after discovering [Printing Press]>", "[+1 Happiness] [in all cities] <after discovering [Radio]>", "[+5 Happiness] [in capital] <after discovering [Telecommunications]>"],
+		"uniques" : ["[+3 Happiness] [in capital] <after discovering [Writing]>", "[+4 Food] from every [Marsh]", "[+2 Happiness] [in all cities] <after discovering [Printing Press]>", "[+1 Happiness] [in all cities] <after discovering [Radio]>", "[+5 Happiness] [in capital] <after discovering [Telecommunications]>"],
 		"cities" : ["Minsk","Bobryisk","PotatoField","JopaEja","Chongjin","Wonsan","Raseon","Kaechon","Sinuiju","Sariwon","Haeju","Kanggye","Hyesan","Rajin","Sonbong","Anju","Songnim","Hwangju","Kilju","Anbyon"]
 	}
 ]
