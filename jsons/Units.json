@@ -25,6 +25,6 @@
 		"requiredTech": "Horseback Riding",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>", "[2] additional attacks per turn <when fighting in [Friendly Land] tiles>","Must set up to ranged attack"]
+		"uniques": ["Can move after attacking","No defensive terrain bonus"]
 	}
 ]
