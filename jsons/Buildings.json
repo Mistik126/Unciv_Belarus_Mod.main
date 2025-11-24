@@ -10,6 +10,6 @@
 		"cost" : 360,
 		"hurryCostModifier" : 25,
 		"requiredTech" : "Industrialization",
-		"uniques" : ["[+3 production] from [Wheat] tiles [in this city]"]
+		"uniques" : ["[+3 Production] from [Wheat] tiles [in this city]"]
 	}
 ]
