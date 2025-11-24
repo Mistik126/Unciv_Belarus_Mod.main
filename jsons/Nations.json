@@ -60,7 +60,7 @@
 		"tradeRequest" : "I have a good suggestion, comrade.",
 
 		"outerColor" : [62, 127, 202],
-		"innerColor" : [0, 128, 0],
+		"innerColor" : [34, 128, 34],
 		"uniqueName" : "Great Potato Farm",
 		"uniques" : ["[+1 Happiness] [in capital] <after discovering [Writing]>", "[+4 Food] from every [Marsh]", "[+2 Production] from every [Wheat]", "[+1 Happiness] [in all cities] <after discovering [Radio]>", "[+5 Happiness] [in capital] <after discovering [Telecommunications]>"],
 		"cities" : ["Minsk","Bobryisk","Belavezhskaya Pushcha","Polessye","Braslaw Lakes","Vitebsk","Bulbiansk","Kaechon","Sinuiju","Sariwon","Haeju","Kanggye","Hyesan","Rajin","Sonbong","Anju","Songnim","Hwangju","Kilju","Anbyon"]
