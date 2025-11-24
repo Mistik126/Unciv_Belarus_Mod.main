@@ -63,6 +63,6 @@
 		"innerColor" : [34, 128, 34],
 		"uniqueName" : "Great Potato Farm",
 		"uniques" : ["[+1 Food, +1 Production] from every [Pasture]", "[+1 Production, +1 Happiness] from every [Horses]",
-		"cities" : ["Tashkent","Samarkand","Bukhara","Khiva"]
+		"cities" : ["Tashkent","Samarkand","Bukhara","Khiva", "Nukus", "Fergana"]
 	}
 ]
