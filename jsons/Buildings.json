@@ -11,5 +11,18 @@
 		"hurryCostModifier" : 25,
 		"requiredTech" : "Industrialization",
 		"uniques" : ["[+3 Production] from [Wheat] tiles [in this city]"]
+	},
+	
+	{
+		"name" : "Karavan Saray",
+		"replaces" : "Market",
+		"uniqueTo" : "Uzbekistan",
+		"gold" : 8,
+		"percentStatBonus": {"gold": 33},
+		"specialistSlots": {"Merchant": 2},
+		"cost" : 100,
+		"hurryCostModifier" : 25,
+		"requiredTech" : "Currency",
+		"uniques" : ["[+2 Gold, +2 Production] from [Pasture] tiles [in this city]"]
 	}
 ]
