@@ -31,5 +31,38 @@
 		"uniqueName" : "Great Potato Farm",
 		"uniques" : ["[+3 Happiness] [in capital] <after discovering [Writing]>", "[+4 Food] from every [Marsh]", "[+2 Production] from every [Wheat]", "[+1 Happiness] [in all cities] <after discovering [Radio]>", "[+5 Happiness] [in capital] <after discovering [Telecommunications]>"],
 		"cities" : ["Minsk","Bobryisk","Belavezhskaya Pushcha","Polessye","Braslaw Lakes","Vitebsk","Bulbiansk","Kaechon","Sinuiju","Sariwon","Haeju","Kanggye","Hyesan","Rajin","Sonbong","Anju","Songnim","Hwangju","Kilju","Anbyon"]
+	},
+	{
+		"name" : "Uzbekistan",
+		"leaderName" : "Shavkat Mirziyov",
+		"adjective" : ["Uzbekistansk"],
+		"startBias" : ["Forest"],
+		"preferredVictoryType" : "Domination",
+		
+		"startIntroPart1" : "Where swamps are not an obstacle but a source of strength? Where potato fields are a national treasure? Where 'Batka' is a title, not a nickname? Certainly, in Belarus! Take the reins of Alexander Lukashenko's wise rule, whose hand is steady and gaze fixed on a bright future fertilized with the world's finest potatoes. Your people have learned to profit from the marshiest lands, and their farms are the shield and backbone of the state. And when the hour of industrialization comes, you will build not just a factory, but an icon of the era—the Motor-Tractor Plant, a forge of peaceful yet formidable machines." 
+		"startIntroPart2" : "Can you maintain neutrality, steadfast friendships, and record-breaking harvests? Can you prove to the world that true power lies in potatoes, tractors, and the wise Batka? Forward, to new achievements on Belarusian soil!",
+
+		"declaringWar" : "We tried to settle the dispute peacefully with you, but you eventually crossed the line and we set up a war to ensure the safety of our people.",
+		"attacked" : "I'll kill you all!",
+		"defeated" : "We have dedicated ourselves to the people. It remains to be seen whether our efforts have been insufficient or our choices have been wrong...",
+		"introduction" : "Young man, I'm listening carefully, but I warn you - I don't tolerate empty promises!",
+
+		"neutralHello" : "Nice to meet you, comrade.",
+		"neutralLetsHearIt" : ["Is that so.","I wanna hear it"],
+		"neutralNo": ["No.","That's impossible."],
+		"neutralYes": ["All right.","That's a good idea."],
+		"hateHello": "Get away from me, Ganna!",
+		"hateLetsHearIt" : "What are you trying to say?",
+		"hateNo": ["We will never accept that!","Do you think it's ok?"],
+		"hateYes": ["I must accept.","I never reject a good offer."],
+		
+		"afterPeace" : "It's the blessing of a great comrade!",
+		"tradeRequest" : "I have a good suggestion, comrade.",
+
+		"outerColor" : [62, 127, 202],
+		"innerColor" : [0, 128, 0],
+		"uniqueName" : "Great Potato Farm",
+		"uniques" : ["[+1 Happiness] [in capital] <after discovering [Writing]>", "[+4 Food] from every [Marsh]", "[+2 Production] from every [Wheat]", "[+1 Happiness] [in all cities] <after discovering [Radio]>", "[+5 Happiness] [in capital] <after discovering [Telecommunications]>"],
+		"cities" : ["Minsk","Bobryisk","Belavezhskaya Pushcha","Polessye","Braslaw Lakes","Vitebsk","Bulbiansk","Kaechon","Sinuiju","Sariwon","Haeju","Kanggye","Hyesan","Rajin","Sonbong","Anju","Songnim","Hwangju","Kilju","Anbyon"]
 	}
 ]
