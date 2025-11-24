@@ -40,7 +40,6 @@
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization"
-		"uniques": ["[+50%] Defense when fighting in [Hill] terrain", 
-             "May move after attacking"]
+		"uniques": ["May move after attacking"]
 	}
 ]
